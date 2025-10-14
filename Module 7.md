@@ -40,6 +40,7 @@ int main()
 
 
 Output:
+<img width="807" height="318" alt="493146771-c81ddd24-a0c1-42a7-b149-4a055c2151f0" src="https://github.com/user-attachments/assets/f8f684d3-b8aa-4797-9d83-fca22a3af61e" />
 
 
 
